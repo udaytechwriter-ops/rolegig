@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://rolegig.com/</loc></url>
-<url><loc>https://rolegig.com/issue-1/</loc></url>
+<url><loc>https://rolegig.com/technical-writing/</loc></url>
+<url><loc>https://rolegig.com/technical-writing/issue-2/</loc></url>
+<url><loc>https://rolegig.com/technical-writing/issue-1/</loc></url>
+<url><loc>https://rolegig.com/product/</loc></url>
+<url><loc>https://rolegig.com/product/issue-2/</loc></url>
+<url><loc>https://rolegig.com/product/issue-1/</loc></url>
+<url><loc>https://rolegig.com/qa-testing/</loc></url>
+<url><loc>https://rolegig.com/ai-ml/</loc></url>
+<url><loc>https://rolegig.com/developer/</loc></url>
 </urlset>
