@@ -93,6 +93,8 @@ text-decoration:none;transition:background .15s ease}
 .arch a{font-weight:500}
 .arch .h{color:var(--ink)}
 .arch .c{grid-column:2;font-size:14.5px;color:var(--muted)}
+.nums{list-style:none;padding:0;margin-top:14px;display:flex;flex-wrap:wrap;gap:4px 30px}
+.nums a{display:inline-block;padding:8px 0;font-size:17px;font-weight:500}
 .close{border-top:1px solid var(--line)}
 
 .ihead{padding:44px 0 40px;border-bottom:1px solid var(--line)}
