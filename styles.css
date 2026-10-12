@@ -95,6 +95,8 @@ text-decoration:none;transition:background .15s ease}
 .arch .c{grid-column:2;font-size:14.5px;color:var(--muted)}
 .nums{list-style:none;padding:0;margin-top:14px;display:flex;flex-wrap:wrap;gap:4px 30px}
 .nums a{display:inline-block;padding:8px 0;font-size:17px;font-weight:500}
+.h3s+.nums{margin-top:4px}
+.ed.past .acts{padding-top:22px}
 .close{border-top:1px solid var(--line)}
 
 .ihead{padding:44px 0 40px;border-bottom:1px solid var(--line)}
@@ -178,7 +180,7 @@ background:linear-gradient(to right,rgba(255,255,255,0),#fff 70%)}
 .toc a{flex:none;gap:6px;font-size:14px;border-left:0;border-bottom:2px solid transparent;padding:6px 10px}
 .toc a.on{border-bottom-color:var(--accent)}
 .main{max-width:none;padding-top:26px}
-:target{scroll-margin-top:170px}
+.main :target{scroll-margin-top:170px}
 }
 @media (max-width:900px){
 .mast{padding:40px 0 44px}
