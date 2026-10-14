@@ -1,0 +1,23 @@
+# RoleGig
+
+> Free weekly lists of technical writer and product manager jobs: India, US, Canada, Europe, Australia, the Gulf and remote, each linked to the original listing.
+
+RoleGig is put together by Udaay Alney and comes out every Monday. Each list is laid out by region: remote roles open worldwide, India, the United States, Canada, Europe, Australia and the Gulf, then hiring posts from LinkedIn and freelance work. Every job links to the original listing. Roles outside India carry a note on what the listing says about work rights and visa sponsorship.
+
+## Lists by role
+
+- [Technical writer jobs](https://rolegig.com/technical-writing/): Technical writers, API and developer documentation, content developers and documentation managers.
+- [Product manager jobs](https://rolegig.com/product/): Product managers, product owners, product analysts and entry-level product roles.
+
+## Latest issue
+
+- [Technical writer jobs, week of 12 October 2026](https://rolegig.com/technical-writing/issue-2/): 46 jobs, 10 hiring posts from LinkedIn and 2 freelance and contract leads.
+- [Product manager jobs, week of 12 October 2026](https://rolegig.com/product/issue-2/): 64 jobs, 16 hiring posts from LinkedIn and 2 freelance and contract leads.
+
+## Cost
+
+- Free: the weekly list by email, and every earlier issue on the site.
+- Plus, $5, from 1 December 2026: the newest list on the day it comes out.
+- Resume help: a review with written notes is $9, a full rewrite is $39.
+
+Contact: hello@rolegig.com
