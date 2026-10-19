@@ -1,6 +1,6 @@
 # RoleGig
 
-> Free weekly lists of technical writer and product manager jobs: India, US, Canada, Europe, Australia, the Gulf and remote, each linked to the original listing.
+> Free weekly lists of developer, QA, AI and ML, product manager and technical writer jobs in India, the US, Canada, Europe, Australia, the Gulf and remote.
 
 RoleGig is put together by Udaay Alney and comes out every Monday. Each list is laid out by region: remote roles open worldwide, India, the United States, Canada, Europe, Australia and the Gulf, then hiring posts from LinkedIn and freelance work. Every job links to the original listing. Roles outside India carry a note on what the listing says about work rights and visa sponsorship.
 
@@ -8,11 +8,17 @@ RoleGig is put together by Udaay Alney and comes out every Monday. Each list is 
 
 - [Technical writer jobs](https://rolegig.com/technical-writing/): Technical writers, API and developer documentation, content developers and documentation managers.
 - [Product manager jobs](https://rolegig.com/product/): Product managers, product owners, product analysts and entry-level product roles.
+- [QA engineer jobs](https://rolegig.com/qa-testing/): Manual and automation testers, SDETs and QA leads.
+- [AI and machine learning jobs](https://rolegig.com/ai-ml/): AI and machine learning engineers, data scientists and people building with LLMs.
+- [Software developer jobs](https://rolegig.com/developer/): Backend, frontend and full stack developers.
 
 ## Latest issue
 
-- [Technical writer jobs, week of 12 October 2026](https://rolegig.com/technical-writing/issue-2/): 46 jobs, 10 hiring posts from LinkedIn and 2 freelance and contract leads.
-- [Product manager jobs, week of 12 October 2026](https://rolegig.com/product/issue-2/): 64 jobs, 16 hiring posts from LinkedIn and 2 freelance and contract leads.
+- [Technical writer jobs, week of 19 October 2026](https://rolegig.com/technical-writing/issue-3/): 41 jobs, 7 hiring posts from LinkedIn and 3 freelance and contract leads.
+- [Product manager jobs, week of 19 October 2026](https://rolegig.com/product/issue-3/): 64 jobs, 21 hiring posts from LinkedIn and 3 freelance and contract leads.
+- [QA engineer jobs, week of 19 October 2026](https://rolegig.com/qa-testing/issue-3/): 54 jobs, 12 hiring posts from LinkedIn and 2 freelance and contract leads.
+- [AI and machine learning jobs, week of 19 October 2026](https://rolegig.com/ai-ml/issue-3/): 57 jobs and 10 hiring posts from LinkedIn.
+- [Software developer jobs, week of 19 October 2026](https://rolegig.com/developer/issue-3/): 57 jobs, 17 hiring posts from LinkedIn and 3 freelance and contract leads.
 
 ## Cost
 
