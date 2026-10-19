@@ -20,6 +20,10 @@ RoleGig is put together by Udaay Alney and comes out every Monday. Each list is 
 - [AI and machine learning jobs, week of 19 October 2026](https://rolegig.com/ai-ml/issue-3/): 57 jobs and 10 hiring posts from LinkedIn.
 - [Software developer jobs, week of 19 October 2026](https://rolegig.com/developer/issue-3/): 57 jobs, 17 hiring posts from LinkedIn and 3 freelance and contract leads.
 
+## This week in numbers
+
+- [Pay, clearance and sponsorship across every listing collected](https://rolegig.com/numbers/2026-10-19/)
+
 ## Cost
 
 - Free: the weekly list by email, and every earlier issue on the site.
